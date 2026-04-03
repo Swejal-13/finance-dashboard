@@ -53,5 +53,6 @@ Swejal Patade
 
 GitHub: https://github.com/Swejal-13
 
+LinkedIn: www.linkedin.com/in/swejal-patade-3237782b1
 
 ⭐ If you like this project, don’t forget to star the repository!
