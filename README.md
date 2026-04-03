@@ -22,45 +22,6 @@ It helps users visualize financial data, track expenses, and manage insights eff
 - Icons: Lucide React
 
 ---
-** 📂 Project Structure
-
-finance-dashboard/
-
-│── public/
-
-│── src/
-
-│   ├── components/    # Reusable UI components
-
-│   ├── data/          # Static/mock data
-
-│   ├── hooks/         # Custom React hooks
-
-│   ├── lib/           # Utility libraries
-
-│   ├── pages/         # Page components
-
-│   ├── store/         # State management
-
-│   ├── test/          # Testing
-
-│   ├── utils/         # Helper functions
-
-│   ├── App.jsx
-
-│   └── main.jsx
-
-│
-│── index.html
-
-│── package.json
-
-│── vite.config.js
-
-│── tailwind.config.js
-
-
----
 ## ⚙️ Installation & Setup
 ### 1️⃣ Clone the repository
 git clone https://github.com/Swejal-13/finance-dashboard.git
