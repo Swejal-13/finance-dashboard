@@ -41,12 +41,6 @@ http://localhost:5173
 npm run build
 
 ---
-## 🧠 Key Learnings
-- Component-driven architecture in React
-- Tailwind CSS for rapid UI development
-- State management and reusable hooks
-- Integrating Radix UI primitives
-- Converting TypeScript components to JavaScript
 
 👤 Author
 Swejal Patade
