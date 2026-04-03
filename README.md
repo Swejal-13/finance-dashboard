@@ -1,4 +1,4 @@
-##💰 FinanceHub – Finance Dashboard
+## 💰 FinanceHub – Finance Dashboard
 
 A modern and responsive Finance Dashboard Web App built using React, Vite, and Tailwind CSS.
 It helps users visualize financial data, track expenses, and manage insights efficiently.
@@ -14,7 +14,7 @@ It helps users visualize financial data, track expenses, and manage insights eff
 
   
 ---
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Frontend: React (JSX)
 - Build Tool: Vite
 - Styling: Tailwind CSS
@@ -23,24 +23,42 @@ It helps users visualize financial data, track expenses, and manage insights eff
 
 ---
 ** 📂 Project Structure
+
 finance-dashboard/
+
 │── public/
+
 │── src/
+
 │   ├── components/    # Reusable UI components
+
 │   ├── data/          # Static/mock data
+
 │   ├── hooks/         # Custom React hooks
+
 │   ├── lib/           # Utility libraries
+
 │   ├── pages/         # Page components
+
 │   ├── store/         # State management
+
 │   ├── test/          # Testing
+
 │   ├── utils/         # Helper functions
+
 │   ├── App.jsx
+
 │   └── main.jsx
+
 │
 │── index.html
+
 │── package.json
+
 │── vite.config.js
+
 │── tailwind.config.js
+
 
 ---
 ## ⚙️ Installation & Setup
