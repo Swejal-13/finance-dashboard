@@ -77,6 +77,7 @@ Converting TypeScript components to JavaScript
 Swejal Patade
 
 GitHub: https://github.com/Swejal-13
+
 LinkedIn: (Add your profile here)
 
 ⭐ If you like this project, don’t forget to star the repository!
